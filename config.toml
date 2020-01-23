@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://sds291.netlify.com/"
 languageCode = "en-us"
 title = "Multiple Regression, Spring 2020"
 theme = "hugo-future-imperfect"
@@ -152,7 +152,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = ""
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -183,7 +183,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = ""
   tumblr           = ""
   twitter          = "bencapistrant"
   skype            = ""
