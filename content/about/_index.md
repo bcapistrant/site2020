@@ -1,6 +1,6 @@
 ---
 date: "2020-01-20"
-title: About SDS/MTH 291
+title: Multiple Regression
 ---
 
 The formal course description of this course is:
